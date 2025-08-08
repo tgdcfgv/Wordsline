@@ -7,7 +7,7 @@
   
   English | [简体中文](./README.zh-CN.md)
   
-  [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/your_username/wordsline)
+  [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/Wordsline/Wordsline)
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
   [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](#installation)
 </div>
@@ -62,8 +62,8 @@ Wordsline is a cutting-edge, cross-platform reading application that transforms 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your_username/wordsline.git
-   cd wordsline
+   git clone https://github.com/Wordsline/Wordsline.git
+   cd Wordsline
    ```
 
 2. **Install dependencies**
@@ -288,5 +288,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   Made with ❤️ by the Wordsline Team
   
-  [Website](https://wordsline.com) • [Documentation](docs/) • [Support](https://github.com/your_username/wordsline/issues)
+  [Website](https://wordsline.com) • [Documentation](docs/) • [Support](https://github.com/Wordsline/Wordsline/issues)
 </div>

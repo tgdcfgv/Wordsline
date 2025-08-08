@@ -1,13 +1,13 @@
-# Rect Words
+# Wordsline
 
 <div align="center">
-  <img src="public/logo.svg" alt="Rect Words Logo" width="120" height="120">
+  <img src="public/logo.svg" alt="Wordsline Logo" width="120" height="120">
   
   **现代化 AI 驱动的阅读伴侣**
   
   [English](./README.md) | 简体中文
   
-  [![版本](https://img.shields.io/badge/版本-0.1.0-blue.svg)](https://github.com/your_username/rect-words)
+  [![版本](https://img.shields.io/badge/版本-0.1.0-blue.svg)](https://github.com/Wordsline/Wordsline)
   [![许可证](https://img.shields.io/badge/许可证-MIT-green.svg)](LICENSE)
   [![平台](https://img.shields.io/badge/平台-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](#安装)
 </div>
@@ -16,7 +16,7 @@
 
 ## 🌟 项目概述
 
-Rect Words 是一款前沿的跨平台阅读应用程序，通过 AI 驱动的语言辅助功能彻底改变您的阅读体验。采用现代 Web 技术构建（Electron + React + Vite），无缝结合沉浸式阅读与智能词汇学习，帮助您掌握新语言并扩展知识面。
+Wordsline 是一款前沿的跨平台阅读应用程序，通过 AI 驱动的语言辅助功能彻底改变您的阅读体验。采用现代 Web 技术构建（Electron + React + Vite），无缝结合沉浸式阅读与智能词汇学习，帮助您掌握新语言并扩展知识面。
 
 ## ✨ 核心功能
 
@@ -68,8 +68,8 @@ Rect Words 是一款前沿的跨平台阅读应用程序，通过 AI 驱动的�
 1. **克隆仓库**
 
    ```bash
-   git clone https://github.com/your_username/rect-words.git
-   cd rect-words
+   git clone https://github.com/Wordsline/Wordsline.git
+   cd Wordsline
    ```
 
 2. **安装依赖**
@@ -104,7 +104,7 @@ Rect Words 是一款前沿的跨平台阅读应用程序，通过 AI 驱动的�
 
 ### API 集成
 
-Rect Words 支持多种词典和 AI 服务：
+Wordsline 支持多种词典和 AI 服务：
 
 #### 词典 API
 
@@ -305,7 +305,7 @@ rect-words/
 ---
 
 <div align="center">
-  由 Rect Words 团队用 ❤️ 制作
+  由 Wordsline 团队用 ❤️ 制作
   
-  [官网](https://rectwords.com) • [文档](docs/) • [支持](https://github.com/your_username/rect-words/issues)
+  [官网](https://wordsline.com) • [文档](docs/) • [支持](https://github.com/Wordsline/Wordsline/issues)
 </div>

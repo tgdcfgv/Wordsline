@@ -62,8 +62,8 @@ Rect Words is a cutting-edge, cross-platform reading application that transforms
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your_username/rect-words.git
-   cd rect-words
+   git clone https://github.com/Wordsline/Wordsline.git
+   cd Wordsline
    ```
 
 2. **Install dependencies**

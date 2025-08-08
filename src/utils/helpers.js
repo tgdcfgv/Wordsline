@@ -31,8 +31,9 @@ export const cleanWord = (word) => {
 };
 
 export const highlightWordInText = (text, word) => {
-  const regex = new RegExp(`\\b${word}\\b`, 'gi');
-  return text.replace(regex, (match) => 
+  const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const regex = new RegExp(`\\b${escapedWord}\\b`, 'gi');
+  return text.replace(regex, (match) =>
     `<strong class="text-indigo-600 dark:text-indigo-400">${match}</strong>`
   );
 };

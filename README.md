@@ -1,13 +1,13 @@
-# Rect Words
+# Wordsline
 
 <div align="center">
-  <img src="public/logo.svg" alt="Rect Words Logo" width="120" height="120">
+  <img src="public/logo.svg" alt="Wordsline Logo" width="120" height="120">
   
   **A Modern AI-Powered Reading Companion**
   
   English | [简体中文](./README.zh-CN.md)
   
-  [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/your_username/rect-words)
+  [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/your_username/wordsline)
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
   [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](#installation)
 </div>
@@ -16,7 +16,7 @@
 
 ## 🌟 Overview
 
-Rect Words is a cutting-edge, cross-platform reading application that transforms your reading experience through AI-powered language assistance. Built with modern web technologies (Electron + React + Vite), it seamlessly combines immersive reading with intelligent vocabulary learning to help you master new languages and expand your knowledge.
+Wordsline is a cutting-edge, cross-platform reading application that transforms your reading experience through AI-powered language assistance. Built with modern web technologies (Electron + React + Vite), it seamlessly combines immersive reading with intelligent vocabulary learning to help you master new languages and expand your knowledge.
 
 ## ✨ Key Features
 
@@ -62,8 +62,8 @@ Rect Words is a cutting-edge, cross-platform reading application that transforms
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your_username/rect-words.git
-   cd rect-words
+   git clone https://github.com/your_username/wordsline.git
+   cd wordsline
    ```
 
 2. **Install dependencies**
@@ -96,7 +96,7 @@ Rect Words is a cutting-edge, cross-platform reading application that transforms
 
 ### API Integration
 
-Rect Words supports multiple dictionary and AI services:
+Wordsline supports multiple dictionary and AI services:
 
 #### Dictionary APIs
 - **Free Dictionary API** - No setup required
@@ -197,7 +197,7 @@ Access settings through the application menu or use `Ctrl/Cmd + ,`:
 
 ### Project Structure
 ```
-rect-words/
+wordsline/
 ├── src/
 │   ├── components/          # React components
 │   │   ├── layout/         # Layout components
@@ -286,7 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  Made with ❤️ by the Rect Words Team
+  Made with ❤️ by the Wordsline Team
   
-  [Website](https://rectwords.com) • [Documentation](docs/) • [Support](https://github.com/your_username/rect-words/issues)
+  [Website](https://wordsline.com) • [Documentation](docs/) • [Support](https://github.com/your_username/wordsline/issues)
 </div>

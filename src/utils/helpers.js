@@ -30,9 +30,15 @@ export const cleanWord = (word) => {
   return word.toLowerCase().replace(/[^a-z]/g, '');
 };
 
+// Escape special characters for use in regular expressions
+export const escapeRegExp = (string) => {
+  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+};
+
 export const highlightWordInText = (text, word) => {
-  const regex = new RegExp(`\\b${word}\\b`, 'gi');
-  return text.replace(regex, (match) => 
+  const escapedWord = escapeRegExp(word);
+  const regex = new RegExp(`\\b${escapedWord}\\b`, 'gi');
+  return text.replace(regex, (match) =>
     `<strong class="text-indigo-600 dark:text-indigo-400">${match}</strong>`
   );
 };
